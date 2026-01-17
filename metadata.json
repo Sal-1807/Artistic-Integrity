@@ -1,0 +1,5 @@
+{
+  "name": "Artistic Integrity Admin",
+  "description": "A premium, light-themed administrative dashboard for managing the Artistic Integrity platform, featuring staff approvals, user management, and real-time activity tracking.",
+  "requestFramePermissions": []
+}
