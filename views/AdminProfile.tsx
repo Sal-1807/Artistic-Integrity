@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 
 interface AdminProfileProps {
@@ -12,23 +11,7 @@ const AdminProfile: React.FC<AdminProfileProps> = ({ onViewLogs }) => {
 
   return (
     <div className="max-w-6xl mx-auto space-y-12 animate-fadeIn pt-4">
-      {/* Search Bar - Matching the screenshot top area */}
-      <div className="flex justify-center mb-8">
-        <div className="relative w-full max-w-4xl flex gap-4">
-          <div className="relative flex-1">
-            <input 
-              type="text" 
-              placeholder="Search users, content, posts by name, email, ID or status..." 
-              className="w-full pl-12 pr-6 py-4 bg-white border border-gray-100 rounded-2xl shadow-sm outline-none text-sm text-gray-600 focus:ring-2 focus:ring-deepPurple/5 transition-all"
-            />
-            <svg className="w-5 h-5 absolute left-4 top-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
-          </div>
-          <button className="px-8 bg-indigo-600 text-white rounded-2xl text-sm font-bold flex items-center gap-2 shadow-lg shadow-indigo-200">
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" /></svg>
-            Filters
-          </button>
-        </div>
-      </div>
+      {/* Redundant search bar section removed to match global layout consistency */}
 
       {/* Main Profile Header Card */}
       <div className="bg-white rounded-[40px] border border-gray-100 shadow-xl shadow-gray-200/40 overflow-hidden">
