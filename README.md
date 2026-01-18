@@ -10,6 +10,7 @@ Artistic Integrity is a responsible AI-human hybrid system designed to protect h
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://debaditya.is-a.dev"><img src="https://avatars.githubusercontent.com/u/123065261?v=4?s=100" width="100px;" alt="Debaditya Malakar"/><br /><sub><b>Debaditya Malakar</b></sub></a><br /><a href="#code-DebadityaMalakar" title="Code">💻</a> <a href="#design-DebadityaMalakar" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sal-1807"><img src="https://avatars.githubusercontent.com/u/180426234?v=4?s=100" width="100px;" alt="Saloni Palo"/><br /><sub><b>Saloni Palo</b></sub></a><br /><a href="#design-Sal-1807" title="Design">🎨</a> <a href="#code-Sal-1807" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JaynaShirlie"><img src="https://avatars.githubusercontent.com/u/185633853?v=4?s=100" width="100px;" alt="Jayna Shirlie"/><br /><sub><b>Jayna Shirlie</b></sub></a><br /><a href="#design-JaynaShirlie" title="Design">🎨</a> <a href="#code-JaynaShirlie" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
