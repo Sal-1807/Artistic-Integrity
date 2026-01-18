@@ -11,4 +11,4 @@ Artistic Integrity is a responsible AI-human hybrid system designed to protect h
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/github/all-contributors/Sal-1807/Artistic-Integrity?color=ee8449&style=flat-square)](#contributors)
