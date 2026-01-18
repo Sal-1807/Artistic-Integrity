@@ -1,0 +1,63 @@
+@import 'tailwindcss/theme.css' layer(theme);
+@import 'tailwindcss/preflight.css' layer(base);
+@import 'tailwindcss/utilities.css';
+
+@import 'nativewind/theme';
+
+:root {
+  /* Dark theme (deep) */
+  --dark-black: #0c0e15;
+  --dark-bg0: #1a212e;
+  --dark-bg1: #21283b;
+  --dark-bg2: #283347;
+  --dark-bg3: #2a324a;
+  --dark-bg_d: #141b24;
+  --dark-bg_blue: #54b0fd;
+  --dark-bg_yellow: #f2cc81;
+  --dark-fg: #93a4c3;
+  --dark-purple: #c75ae8;
+  --dark-green: #8bcd5b;
+  --dark-orange: #dd9046;
+  --dark-blue: #41a7fc;
+  --dark-yellow: #efbd5d;
+  --dark-cyan: #34bfd0;
+  --dark-red: #f65866;
+  --dark-grey: #455574;
+  --dark-light_grey: #6c7d9c;
+  --dark-dark_cyan: #1b6a73;
+  --dark-dark_red: #992525;
+  --dark-dark_yellow: #8f610d;
+  --dark-dark_purple: #862aa1;
+  --dark-diff_add: #27341c;
+  --dark-diff_delete: #331c1e;
+  --dark-diff_change: #102b40;
+  --dark-diff_text: #1c4a6e;
+
+  /* Light theme (catppuccin latte) */
+  --light-black: #dce0e8; /* crust */
+  --light-bg0: #eff1f5; /* base */
+  --light-bg1: #e6e9ef; /* mantle */
+  --light-bg2: #ccd0da; /* surface0 */
+  --light-bg3: #bcc0cc; /* surface1 */
+  --light-bg_d: #acb0be; /* surface2 */
+  --light-bg_blue: #04a5e5; /* sky */
+  --light-bg_yellow: #df8e1d; /* yellow */
+  --light-fg: #4c4f69; /* text */
+  --light-purple: #8839ef; /* mauve */
+  --light-green: #40a02b; /* green */
+  --light-orange: #fe640b; /* peach */
+  --light-blue: #1e66f5; /* blue */
+  --light-yellow: #df8e1d; /* yellow */
+  --light-cyan: #179299; /* teal */
+  --light-red: #d20f39; /* red */
+  --light-grey: #9ca0b0; /* overlay0 */
+  --light-light_grey: #8c8fa1; /* overlay1 */
+  --light-dark_cyan: #209fb5; /* sapphire */
+  --light-dark_red: #e64553; /* maroon */
+  --light-dark_yellow: #df8e1d; /* yellow */
+  --light-dark_purple: #8839ef; /* mauve */
+  --light-diff_add: #40a02b; /* green */
+  --light-diff_delete: #d20f39; /* red */
+  --light-diff_change: #1e66f5; /* blue */
+  --light-diff_text: #7287fd; /* lavender */
+}
