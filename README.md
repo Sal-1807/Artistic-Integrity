@@ -1,0 +1,14 @@
+Artistic Integrity is a responsible AI-human hybrid system designed to protect human artists in the age of generative AI. It combines a mobile app for submissions, a PocketBase backend, and an AI model that analyzes images for AI-generated traits—serving only as an advisory score. Crucially, human moderators make all final verification decisions, ensuring AI never has the final say. The platform transparently shows verification statuses, prioritizes human judgment over automation, and creates a scalable, ethical framework for authenticating artwork, putting artists' integrity and control at the forefront.
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
